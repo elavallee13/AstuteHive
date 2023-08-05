@@ -62,6 +62,8 @@ If you have questions about this project, please feel free to open an issue or r
 License
 This project is licensed under the MIT License.
 
+https://github.com/elavallee13/AstuteHive
+
 
 https://github.com/elavallee13/AstuteHive/assets/126723001/a78d7c62-af50-4a3b-8614-e2f8ebf0bb7c
 
